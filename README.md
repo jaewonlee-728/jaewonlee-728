@@ -1,5 +1,3 @@
-Welcome to my github
-
 ### 📡 Interests
 **NLP**, **Finance**, Text Mining, Recommender System
 
