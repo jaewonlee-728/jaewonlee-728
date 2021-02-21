@@ -1,5 +1,5 @@
 ### 📡 Interests
-**NLP**, **Finance**, Text Mining, Recommender System
+**NLP**, **ESG**, **Finance**, Text Mining, Recommender System
 
 ### 🎓 Education
   - 🇰🇷 03.2020 ~ Seoul National University, [Data Mining Center](http://dm.snu.ac.kr/ko/)(Department of Industrial Engineering)
