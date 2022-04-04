@@ -10,7 +10,7 @@
 
 
 ### 💻 Work Experience
-  - 07.2021 ~         : [CULT](https://the-cult.co.kr/download)(세컨핸드 패션 중고거래 플랫폼) CTO
+  - 07.2021 ~         : [CULT](https://the-cult.co.kr/download)(세컨핸드 패션 중고거래 플랫폼) CTO & Backend Developer
   - 12.2017 ~ 03.2020 : NLP Data Scientist at Naver Chatbot Model(Company.AI)
   - 05.2016 ~ 12.2017 : Junior Quantitative Analyst at Hana Financial Investment
   - 01.2016 ~ 04.2016 : Experienced internships at Deloitte Consulting, SAP HANA Lab
