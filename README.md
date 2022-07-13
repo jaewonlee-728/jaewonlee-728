@@ -10,8 +10,8 @@
 
 
 ### 💻 Work Experience
-  - 07.2022 ~         : [TWO](https://www.two.ai/) Machine Learning Engineer focused on Conversational AI
-  - 07.2021 ~ 06.2022 : [CULT](https://the-cult.co.kr/download)(세컨핸드 패션 중고거래 플랫폼) CTO & Backend Developer
+  - 07.2022 ~         : Machine Learning Engineer(focusing on Conversational AI) at [TWO](https://www.two.ai/)
+  - 07.2021 ~ 06.2022 : CTO & Backend Developer at [CULT](https://the-cult.co.kr/download)(세컨핸드 패션 중고거래 플랫폼) 
   - 12.2017 ~ 03.2020 : NLP Data Scientist at Naver Chatbot Model(Company.AI)
   - 05.2016 ~ 12.2017 : Junior Quantitative Analyst at Hana Financial Investment
   - 01.2016 ~ 04.2016 : Experienced internships at Deloitte Consulting, SAP HANA Lab
